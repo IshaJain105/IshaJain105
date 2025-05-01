@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 I am Isha Jain
 
-<!--
-**IshaJain105/IshaJain105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Based in India  
+- 🌱 Currently learning **Nest.js**, expanding my backend superpowers  
+- 📫 Reach out at: [ishajain105k@gmail.com](mailto:ishajai105k@gmail.com)  
+- 🤝 Always open to **collaboration**, **ideas**, and a bit of tech magic  
+- ✨ Passionate about solving real-world problems through code  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Toolbox
+
+```html
+React | JavaScript | TypeScript | Node.js | Nest.js | HTML | CSS | Sass | Tailwind CSS | Redux | MongoDB | Express | Vite | Babel | Webpack
+
+### 🛠 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,angular,nodejs,express,nestjs,tailwind,bootstrap,redux,mongodb,mysql,firebase,vite,babel,webpack,xd,figma,sketch,linux,macos" />
+</p>
