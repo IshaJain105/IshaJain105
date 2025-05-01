@@ -12,8 +12,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,tailwind,bootstrap,redux,mongodb,mysql,vite" />
 </p>
 
-### ⚙️ Tech Toolbox
+### 🏅 Badges
 
-```html
-React | JavaScript | TypeScript | Node.js | Nest.js | HTML | CSS | Sass | Tailwind CSS | Redux | MongoDB | Express | Vite | Babel | Webpack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishajain105&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
