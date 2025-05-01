@@ -9,7 +9,7 @@
 ### 🛠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,tailwind,bootstrap,redux,mongodb,mysql,vite" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,nodejs,express,tailwind,bootstrap,redux,mongodb,mysql,vite" />
 </p>
 
 ### 🏅 Badges
