@@ -2,13 +2,13 @@
 
 ## 💻 Developer | Curious Creator
 
-I’m not just here to code — I’m here to **build**, **learn**, and **collaborate**. From designing seamless UIs to architecting powerful backend systems, I enjoy creating solutions that are both elegant and impactful.
-
 - 🌍 Based in Bengaluru, Karnataka, India  
 - 🌱 Currently expanding my backend superpowers  
 - 📫 Reach out at: [ishajain105k@gmail.com](mailto:ishajai105k@gmail.com)  
-- 🤝 Always open to **collaboration**, **ideas**, and a bit of tech magic  
+- 🤝 I’m not just here to code — I’m here to **build**, **learn**, and **collaborate**.
 - ✨ Passionate about solving real-world problems through code
+- 🔥 I specialize in transforming ideas into functional experiences.
+  
 
  
 ### 🛠 Skills
