@@ -1,7 +1,7 @@
 ## 👋 I am Isha Jain
 
-- 🌍 Based in India  
-- 🌱 Currently learning **Nest.js**, expanding my backend superpowers  
+- 🌍 Based in Bengaluru, Karnataka, India  
+- 🌱 Currently expanding my backend superpowers  
 - 📫 Reach out at: [ishajain105k@gmail.com](mailto:ishajai105k@gmail.com)  
 - 🤝 Always open to **collaboration**, **ideas**, and a bit of tech magic  
 - ✨ Passionate about solving real-world problems through code  
