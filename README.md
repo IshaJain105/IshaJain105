@@ -5,7 +5,6 @@
 - 🌍 Based in Bengaluru, Karnataka, India  
 - 🌱 Currently expanding my backend superpowers  
 - 📫 Reach out at: [ishajain105k@gmail.com](mailto:ishajai105k@gmail.com)  
-- 🤝 I’m not just here to code — I’m here to **build**, **learn**, and **collaborate**.
 - ✨ Passionate about solving real-world problems through code
 - 🔥 I specialize in transforming ideas into functional experiences.
   
